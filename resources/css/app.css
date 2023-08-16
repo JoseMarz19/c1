@@ -1,0 +1,12 @@
+@import'common.css';
+@import 'buttons.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-yellow-400{
+    --tw-bg-opacity: 1;
+    color: rgb(241 241 42 / var(--tw-bg-opacity));
+}
+
+

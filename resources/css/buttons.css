@@ -1,0 +1,19 @@
+.btn{
+    @apply font-bold py-2 px-4 rounded;
+}
+
+.btn-block{
+    @apply bg-blue-500 hover:bg-blue-700 text-white text-lg font-bold;
+}
+.btn-primary{
+    @apply bg-blue-500 text-white text-center w-32 mt-4 mb-2 py-1 px-4;
+}
+.btn-blue:hover{
+    @apply bg-blue-700;
+}
+.btn-danger{
+    @apply bg-blue-500 text-white;
+}
+.btn-blue:hover{
+    @apply bg-red-700;
+}
